@@ -9,7 +9,6 @@ This is a Django web application that predicts career options based on user inpu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
